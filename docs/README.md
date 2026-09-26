@@ -142,19 +142,14 @@ P(e
 ​
  ⟨K(e 
 ∗
- ,⋅),Ψ⟩ 
-​
-  
-2
+ ,⋅),Ψ⟩∣ 2
  
 当核函数满足正交条件时，这个式子退化为标准玻恩规则：
 P(e 
 ∗
  )=∣Ψ(e 
 ∗
- )∣ 
-2
-
+ )∣ 2
  
 3.5 引力
 
@@ -184,8 +179,7 @@ G
 由于核函数是高斯型的，而不是平面波，远屏处的次极大强度会偏离标准值，偏离幅度约为 (ℓ 
 0
 ​
- /d) 
-2
+ /d) 2
  ，其中 d是缝间距。
 数值估计
 如果 ℓ 
@@ -257,6 +251,7 @@ Rovelli, C. (1996). Relational Quantum Mechanics.
 Penrose, R. (1996). On Gravity's Role in Quantum State Reduction.
 
 项目地址
+
 GitHub: https://github.com/cq12450/derivative-continuum-fraomework-theory
 
 Zenodo: https://zenodo.org/records/22973222
